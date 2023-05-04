@@ -1,5 +1,10 @@
 # Twitter Postgres Indexes
 
+### Summary
+Utilizing Postgres indexes to increase normalized query runtimes by 31x and denormalized queries by 587x.
+
+========================================
+
 <img align="right" src=the-sql-queries.jpg width=200px >
 
 This is a continuation of the [parallel twitter in postgres assignment](https://github.com/mikeizbicki/twitter_postgres_parallel).
